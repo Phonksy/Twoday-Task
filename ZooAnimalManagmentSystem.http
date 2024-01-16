@@ -1,0 +1,6 @@
+@ZooAnimalManagmentSystem_HostAddress = http://localhost:5210
+
+GET {{ZooAnimalManagmentSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
